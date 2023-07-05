@@ -173,3 +173,19 @@ ul{list-style: none;
   justify-content: center;
 
 }
+
+/*duplicado*/
+
+
+/*social (deseños de redes sociales)*/
+.social p {
+  margin: center;
+  font-size: 20px;
+}
+/*centrado aliniado*/
+.links {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
